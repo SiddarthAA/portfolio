@@ -123,7 +123,7 @@ const ACHIEVEMENTS_LEADERSHIP = [
     org: "CODE OF HONOUR \u2014 PES UNIVERSITY",
     role: "First Runners-Up",
     period: "2024",
-    brief: "First Runners-Up at a national-level competitive programming and systems hackathon.",
+    brief: "First Runners-Up at a national-level hackathon.",
     bullets: [],
   },
 ];
