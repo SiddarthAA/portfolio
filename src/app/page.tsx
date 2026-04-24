@@ -13,19 +13,6 @@ const BACKERS = [
 
 const EXPERIENCE = [
   {
-    from: "FEB 2026",
-    to: "PRESENT",
-    company: "Cyient",
-    role: "AI Systems Engineer",
-    description: "Sole AI engineer for a __DO-178C/ARP4754A__-aligned aerospace traceability engine, architecting a multi-stage __lexical+dense retrieval__, __cross-encoder reranking__, and __LLM obligation-decomposition__ pipeline over __hierarchical requirement graphs__ for certification-grade verification.",
-    detail: [
-      "Sole AI engineer on a safety-critical requirements traceability system built and validated against __Airbus__ and __Boeing__ certification workflows (__DO-178C/ARP4754A__) over large-scale requirement graphs.",
-      "Architected a __3-stage hybrid retrieval + reasoning pipeline__ \u2014 BM25 lexical search, dense semantic retrieval (all-MiniLM-L6-v2) with RRF, cross-encoder reranking, and an LLM obligation-decomposition agent emitting structured trace verdicts with gap localization.",
-      "Engineered automated __orphan-node__ and __broken-edge detection__ across requirement hierarchies, compressing multi-week compliance audits into seconds.",
-    ],
-    tags: ["DO-178C", "ARP4754A", "HYBRID RETRIEVAL", "BM25 + DENSE", "RRF", "LLM RERANKING", "CROSS-ENCODER", "AEROSPACE AI"],
-  },
-  {
     from: "MAR 2026",
     to: "PRESENT",
     company: "The College App",
@@ -37,6 +24,19 @@ const EXPERIENCE = [
       "Built __async retrieval + orchestration pipelines__ using parallel cache hydration, CrewAI agents, and vector-indexed semantic search for scalable, low-latency conversational systems.",
     ],
     tags: ["AGENTIC AI", "CREWAI", "TWO-PASS LLM", "REDIS PIPELINE", "FASTAPI", "ASYNC PYTHON", "SYSTEM DESIGN"],
+  },
+  {
+    from: "FEB 2026",
+    to: "APR 2026",
+    company: "Cyient",
+    role: "AI Systems Engineer",
+    description: "Sole AI engineer for a __DO-178C/ARP4754A__-aligned aerospace traceability engine, architecting a multi-stage __lexical+dense retrieval__, __cross-encoder reranking__, and __LLM obligation-decomposition__ pipeline over __hierarchical requirement graphs__ for certification-grade verification.",
+    detail: [
+      "Sole AI engineer on a safety-critical requirements traceability system built and validated against __Airbus__ and __Boeing__ certification workflows (__DO-178C/ARP4754A__) over large-scale requirement graphs.",
+      "Architected a __3-stage hybrid retrieval + reasoning pipeline__ \u2014 BM25 lexical search, dense semantic retrieval (all-MiniLM-L6-v2) with RRF, cross-encoder reranking, and an LLM obligation-decomposition agent emitting structured trace verdicts with gap localization.",
+      "Engineered automated __orphan-node__ and __broken-edge detection__ across requirement hierarchies, compressing multi-week compliance audits into seconds.",
+    ],
+    tags: ["DO-178C", "ARP4754A", "HYBRID RETRIEVAL", "BM25 + DENSE", "RRF", "LLM RERANKING", "CROSS-ENCODER", "AEROSPACE AI"],
   },
   {
     from: "JUN 2025",

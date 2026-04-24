@@ -18,7 +18,7 @@ export default function FlickeringGrid({
   gridGap = 7,
   flickerChance = 0.25,
   color = "165,180,252",
-  maxOpacity = 0.1,
+  maxOpacity = 0.75,
   className,
   style,
 }: FlickeringGridProps) {

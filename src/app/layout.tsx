@@ -24,9 +24,6 @@ const newsreader = Newsreader({
 export const metadata: Metadata = {
   title: "Siddartha A Y",
   description: "AI Systems · Backend · Cloud Infrastructure · Applied ML / GenAI",
-  icons: {
-    icon: "/favicon.jpg",
-  },
 };
 
 export default function RootLayout({
