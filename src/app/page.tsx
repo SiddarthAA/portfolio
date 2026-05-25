@@ -14,7 +14,7 @@ const BACKERS = [
 const EXPERIENCE = [
   {
     from: "MAR 2026",
-    to: "PRESENT",
+    to: "JUN 2026",
     company: "The College App",
     role: "Founding Engineer",
     description: "Designed a production-grade __agentic inference__ and __memory system__ for a US EdTech startup, integrating __schema-constrained 2-pass LLM__ orchestration, __O(1) Redis I/O__, __async cache hydration__, and __token-efficient session compression__.",
